@@ -1,5 +1,5 @@
 {
-    "name": "srayner/event",
+    "name": "srayner/em",
     "type":"component",
     "description":"Simple PHP PSR-14 compliant event manager.",
     "authors": [
