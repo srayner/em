@@ -1,0 +1,18 @@
+{
+    "name": "srayner/event",
+    "type":"component",
+    "description":"Simple PHP PSR-14 compliant event manager.",
+    "authors": [
+        {
+            "name":"Steve Rayner"
+        }
+    ],
+    "autoload": {
+         "psr-4": {
+            "srayner\\em\\":"src"
+         }    
+    },
+    "require": {
+        "psr/event": "1.0.*"
+    }
+}
